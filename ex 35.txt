@@ -1,0 +1,1 @@
+Exno-35_simulator to  accept strings in which a’s always appear tripled over input {a,b}

@@ -1,0 +1,1 @@
+Exno-38_accept any number of b’s where input={a,b}

@@ -1,0 +1,1 @@
+Exno-36_string the start with a and end with b over set {a,b} and check W=  abaab is accepted or not

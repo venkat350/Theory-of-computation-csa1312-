@@ -1,0 +1,1 @@
+Exno-34_to  accept even number of c’s over the set {a,b,c}
