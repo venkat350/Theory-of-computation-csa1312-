@@ -1,0 +1,1 @@
+Exno-30_to accept any number of a’s where input={a,b}

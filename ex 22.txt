@@ -1,0 +1,1 @@
+Exno-22_DFA using simulator to accept odd number of a’s

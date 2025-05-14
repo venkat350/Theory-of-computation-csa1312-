@@ -1,0 +1,1 @@
+Exno-23_the string the end with ab over set {a,b)         W=  aaabab

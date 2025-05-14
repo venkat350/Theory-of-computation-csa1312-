@@ -1,0 +1,1 @@
+Exno-21_DFA  using simulator to  accept even number of a’s

@@ -1,0 +1,1 @@
+Exno-26_TM using simulator to accept the input string Palindrome  bbabb
